@@ -1,15 +1,24 @@
-## Welcome to GitHub Pages
+## Tula Naik
+![Image](TulaNaik.jpeg)
+                                                                                                                                
+                                                            
+  647-787-9067 
+                                    
+                                    
+  [LinkedIn](https://www.linkedin.com/in/tulanaik/)
+                                    
+  Data Analyst
+                                    
+  Business Analyst
+                                    
+  Information Security Analyst
 
-You can use the [editor on GitHub](https://github.com/Tula2609/PORTFOLIO/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+### Technical Skills
+- Microsoft Office :  Word, Advanced Excel, Powerpoint
+- SQl queries
+- Statistical Modeling
+- Python (Pandas, NumPy, seaborn)
+- Business analysis
 
 # Header 1
 ## Header 2
