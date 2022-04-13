@@ -7,7 +7,7 @@
   [LinkedIn](https://www.linkedin.com/in/tulanaik/)
                                     
   Real Time Analyst
-  S&P Data Digital, Toronto, Ontario
+ , S&P Data Digital, Toronto, Ontario
 
 ### Technical Skills
 - Microsoft Office :  Word, Advanced Excel, Powerpoint, Outlook 
