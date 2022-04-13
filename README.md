@@ -9,6 +9,29 @@
   Real Time Analyst
  , S&P Data Digital, Toronto, Ontario
 
+
+### Technical Experience
+•	Real Time Analyst 
+Duration: Dec 2021- Current 
+Company: S&P Data Digital, Toronto
+o	Maintaining the performance according to the business needs.
+o	Optimizing available agents and their skills according to clients requirements.
+o	Regular Use of Microsoft Office suit ( EXCEL, POWERPOINT)
+o	Preparing reports on daily hours, results, and performance matrix.
+o	Calculating the performance by analyzing specific data.
+o	Reporting of data by using Advance Excel functions(VLOOKUP, macros, VBA).
+o	Maintaining communication and presentations with related Operation managers.
+o	Actively using SharePoint and analytical tools to maintain performance of the call center.
+
+•	Technical Sales Specialist                                                                     
+Duration: Aug 2020- Dec 2021
+Company: S&P Data Digital, Toronto
+Clients: ADT BY TELUS Home security Solutions/Shaw Communications (Internet, TV,     Phone, Cellular)
+o	Providing customers with required tech support and positioning sales
+o	Performing Data analysis of Customer’s service utilization in order to provide enhanced solutions.
+o	Navigating computerized system and accurately handling data.
+o	Taking the full ownership of the product knowledge and providing solutions.
+
 ### Technical Skills
 - Microsoft Office :  Word, Advanced Excel, Powerpoint, Outlook 
 - SQl queries
@@ -16,20 +39,5 @@
 - Python (Pandas, NumPy, seaborn)
 - Business analysis
 
-## **Kaggle Competitions/Machine Learning** - **[Kaggle](https://www.Kaggle.com/)**
-
-
-
-> About 80 percent of adults experience low back pain at some point in their lifetimes. It is the most common cause of job-related disability and a leading contributor to missed work days. [-National Institute of Health](https://www.ninds.nih.gov/Disorders/Patient-Caregiver-Education/Fact-Sheets/Low-Back-Pain-Fact-Sheet)
-
-Utilizing technology to enhance the lives of people always has, and always be my life's mission. If we could produce a model which accurately predicts low back pain, then perhaps anatomical measurements could be examined more routinely as an indicator of back health.
-
-- [Low Back Pain Algorithm](https://www.kaggle.com/anfro18/lower-back-pain-algorithm) - 85% accuracy with Support Vector Machine
-
-_Technology used_
-- Language: Python
-- Data Transformation: pandas, numpy
-- Machine Learning: keras, scikit-learn
-- Visualization: seaborn
 
 
