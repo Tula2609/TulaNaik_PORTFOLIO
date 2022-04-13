@@ -12,6 +12,7 @@
 
 ### Technical Experience
 •	Real Time Analyst 
+
 Duration: Dec 2021- Current 
 Company: S&P Data Digital, Toronto
 o	Maintaining the performance according to the business needs.
@@ -23,7 +24,8 @@ o	Reporting of data by using Advance Excel functions(VLOOKUP, macros, VBA).
 o	Maintaining communication and presentations with related Operation managers.
 o	Actively using SharePoint and analytical tools to maintain performance of the call center.
 
-•	Technical Sales Specialist                                                                     
+•	Technical Sales Specialist    
+
 Duration: Aug 2020- Dec 2021
 Company: S&P Data Digital, Toronto
 Clients: ADT BY TELUS Home security Solutions/Shaw Communications (Internet, TV,     Phone, Cellular)
