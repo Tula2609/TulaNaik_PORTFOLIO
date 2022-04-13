@@ -1,21 +1,16 @@
 ## Tula Naik  
 
-![Image](TulaNaik.jpeg)
-                                                                                                                                
+![Image](TulaNaik.jpeg)                                                                                                                         
                                                             
   647-787-9067 
                                     
-                                    
   [LinkedIn](https://www.linkedin.com/in/tulanaik/)
                                     
-  Data Analyst
-                                    
-  Business Analyst
-                                    
-  Information Security Analyst
+  Real Time Analyst
+  S&P Data Digital, Toronto, Ontario
 
 ### Technical Skills
-- Microsoft Office :  Word, Advanced Excel, Powerpoint
+- Microsoft Office :  Word, Advanced Excel, Powerpoint, Outlook 
 - SQl queries
 - Statistical Modeling
 - Python (Pandas, NumPy, seaborn)
